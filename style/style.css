@@ -9,3 +9,18 @@ body{
     color: rgba(61, 57, 53, 1);
     line-height: 140%;
 }
+.headmain{
+    background: linear-gradient(270deg, rgba(112,108,108,1) 0%, rgba(11,10,10,0.8324463574492297) 38%, rgba(243,246,247,0) 100%), url(../img/bg1.png) center/cover no-repeat;
+    margin-top: 92px;
+}
+.mainh{
+    font-family: 'Abhaya libre';
+    font-size: 60px;
+    color: #fff;
+    padding-top: 300px;
+}
+.maint{
+    font-size: 13px;
+    font-weight: 500;
+    color: #fff;
+}
