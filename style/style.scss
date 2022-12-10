@@ -1,3 +1,6 @@
+$firs-bg: rgba(243, 236, 232, 1);
+$second-bg: #fff;
+
 body{
     font-size: 13px;
     font-family: 'Poppins';
@@ -39,4 +42,32 @@ body{
 }
 .head-text{
     margin: 7px 9px 0px 15px;
+}
+.text{
+    font-size: 13px;
+    font-weight: 700;
+}
+h2{
+    font-family: 'Abhaya libre';
+    font-size: 60px;
+    font-weight: 700;
+    color: #000;
+    margin: 0;
+}
+.news{
+    background-color: $firs-bg;
+}
+.orangesec{
+    font-size: 13px;
+    font-weight: 500;
+    color: #f39200;
+}
+.texting{
+    font-family: 'Abhaya libre';
+    font-size: 40px;
+    font-weight: 700;
+    color: #000;
+}
+.btcov:hover{
+    background-color: blue;
 }
