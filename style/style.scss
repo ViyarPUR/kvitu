@@ -1,4 +1,4 @@
-$firs-bg: rgba(243, 236, 232, 1);
+$firs-bg: #e5d6cd;
 $second-bg: #fff;
 
 body{
@@ -70,4 +70,11 @@ h2{
 }
 .btcov:hover{
     background-color: blue;
+}
+.textsec{
+    font-size: 13px;
+    font-weight: 400;
+    font-family: 'Noto Serif';
+    line-height: 19px;
+    padding-top: 25px;
 }
