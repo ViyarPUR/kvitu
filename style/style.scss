@@ -1,4 +1,4 @@
-$firs-bg: #e5d6cd;
+$firs-bg: #f4ece8;
 $second-bg: #fff;
 
 body{
@@ -54,9 +54,6 @@ h2{
     color: #000;
     margin: 0;
 }
-.news{
-    background-color: $firs-bg;
-}
 .orangesec{
     font-size: 13px;
     font-weight: 500;
@@ -77,4 +74,7 @@ h2{
     font-family: 'Noto Serif';
     line-height: 19px;
     padding-top: 25px;
+}
+.news{
+    background-color: $firs-bg;
 }
