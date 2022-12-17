@@ -1,5 +1,7 @@
 $firs-bg: #f4ece8;
 $second-bg: #fff;
+$green-bg: rgba(5, 158, 178, 1);
+$orange-bg: rgba(243, 146, 0, 1);
 
 body{
     font-size: 13px;
@@ -133,4 +135,15 @@ h2{
     color: #000;
     padding-top: 70px;
     padding-bottom: 70px;
+}
+.carousel-control-prev{
+    width: 3%;
+    padding: 10px;
+}
+.carousel-control-next{
+    width: 3%;
+    padding: 10px;
+}
+.vieni{
+    background-color: $firs-bg;
 }
