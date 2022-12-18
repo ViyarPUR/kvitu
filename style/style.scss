@@ -147,3 +147,51 @@ h2{
 .vieni{
     background-color: $firs-bg;
 }
+.vblock{
+    padding: 80px 80px 80px 80px;
+}
+.vien{
+    font-family: 'Abhaya libre';
+    font-size: 60px;
+    font-weight: 700;
+    color: #000;
+    line-height: 60px;
+}
+.abil{
+    font-size: 24px;
+    font-weight: 500;
+    color: #000;
+}
+.green{
+    background-color: $green-bg;
+    padding: 55px;
+    border-radius: 0px 5px 0px 0px;
+}
+.gr-img{
+    padding-right: 50px;
+}
+.rom{
+    font-family: 'Abhaya libre';
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+}
+.romt{
+    font-size: 24px;
+    font-weight: 500;
+    color: #fff;
+}
+.rom-link:hover{
+    background-color: orange;
+}
+.rom-link-or:hover{
+    background-color: green;
+}
+.oran{
+    background-color: $orange-bg;
+    padding: 55px;
+    border-radius: 0px 0px 5px 0px;
+}
+.nost{
+    background-color: $firs-bg;
+}
