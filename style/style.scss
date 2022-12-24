@@ -224,11 +224,46 @@ h2{
 .la{
     font-size: 24px;
     font-weight: 500;
-    line-height: 136%;
 }
 .rights{
     background-color: $foot-bg;
 }
 .but-down:hover{
     border: none;
+}
+@media (max-width: 600px){
+    .mainh{
+        font-size: 36px;
+        padding-top: 100px;
+    }
+    .yacheika{
+        margin-top: 60px;
+    }
+    .vblock{
+        padding: 55px 35px 30px 45px;
+    }
+    .vien{
+        font-size: 50px;
+    }
+    .abil{
+        font-size: 20px;
+    }
+    .green{
+        padding: 20px;
+    }
+    .gr-img{
+        padding-right: 30px;
+    }
+    .rom{
+        font-size: 36px;
+    }
+    .romt{
+        font-size: 17px;
+    }
+    .oran{
+        padding: 20px;
+    }
+    .ntext{
+        font-size: 50px;
+    }
 }
