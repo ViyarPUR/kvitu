@@ -2,7 +2,7 @@ $firs-bg: #f4ece8;
 $second-bg: #fff;
 $green-bg: rgba(5, 158, 178, 1);
 $orange-bg: rgba(243, 146, 0, 1);
-
+$foot-bg: rgba(242, 242, 242, 1);
 body{
     font-size: 13px;
     font-family: 'Poppins';
@@ -220,4 +220,15 @@ h2{
     font-size: 13px;
     font-weight: 500;
     color: #3D3D3C;
+}
+.la{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 136%;
+}
+.rights{
+    background-color: $foot-bg;
+}
+.but-down:hover{
+    border: none;
 }
