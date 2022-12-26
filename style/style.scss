@@ -8,6 +8,9 @@ body{
     font-family: 'Poppins';
     font-weight: 400;
 }
+.bg_col{
+    background-color: $firs-bg;
+}
 .header_link{
     font-size: 13px;
     font-weight: 500;
@@ -231,6 +234,45 @@ h2{
 .but-down:hover{
     border: none;
 }
+.newssec{
+    margin-top: 92px;
+}
+.verh-link{
+    color: #3D3D3C;
+}
+.nwtext{
+    padding: 50px 0;
+}
+.nwstext{
+    font-family: 'Abhaya libre';
+    font-size: 60px;
+    font-weight: 700;
+    color: #3D3D3C;
+}
+.textnw{
+    font-size: 18px;
+    font-weight: 500;
+    color: #3D3D3C;
+}
+.NW{
+    font-size: 24px;
+    font-weight: 500;
+    color: #3D3D3C;
+}
+.cuc{
+    font-size: 24px;
+    font-weight: 500;
+    color: #3D3D3C;
+}
+.catext{
+    font-size: 13px;
+    font-weight: 500;
+    color: #b5b7c3;
+}
+
+
+
+
 @media (max-width: 600px){
     .mainh{
         font-size: 36px;
